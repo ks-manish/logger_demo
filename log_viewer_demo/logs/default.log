@@ -1,0 +1,14 @@
+[INFO] 2019-12-12 13:32:46,938 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2019-12-12 13:35:15,801 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2019-12-12 14:00:31,343 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2019-12-12 14:01:00,683 django.utils.autoreload: C:\Users\manish.singh\PycharmProjects\django-log-viewer-master\log_viewer_demo\log_viewer_demo\__init__.py changed, reloading.
+[INFO] 2019-12-12 14:04:14,422 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2019-12-12 14:06:37,475 django.utils.autoreload: C:\Users\manish.singh\PycharmProjects\django-log-viewer-master\log_viewer_demo\log_viewer_demo\urls.py changed, reloading.
+[INFO] 2019-12-12 14:06:43,100 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2019-12-12 14:10:05,689 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2019-12-12 14:13:11,298 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2019-12-12 14:15:04,897 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2019-12-12 14:29:04,285 django.utils.autoreload: C:\Users\manish.singh\PycharmProjects\django-log-viewer-master\log_viewer_demo\log_viewer_demo\urls.py changed, reloading.
+[INFO] 2019-12-12 14:29:09,808 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2019-12-12 19:48:05,255 django.utils.autoreload: Watching for file changes with StatReloader
+[INFO] 2019-12-12 19:57:23,617 django.utils.autoreload: Watching for file changes with StatReloader
